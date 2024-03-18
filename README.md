@@ -1,5 +1,5 @@
 # Books-Database-HW12
-HW12 From Adv. Python
+Homework 12 From Advanced Python course
 
 Author: Hamna Khan
 
